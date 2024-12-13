@@ -7,11 +7,12 @@
 
 Nesse código vamos:
 
-👉 Configurar o Pandas AI (sim, incluindo as chaves da API – sem drama! 😎)
+👉 Como fazer a instalação do Pandas AI
 
-👉 Fazer a instalação de forma fácil e rápida
+👉 Conexão com a biblioteca
 
 👉 Analisar um conjunto de dados inspirado em Friends (quem será o personagem mais citado? 🧐)
+
 
 # Sobre os dados
 Os dados utilizados foram coletados do [Kaggle](https://www.kaggle.com/datasets/lucasyukioimafuko/friends-r-package-dataset) e foi baseado no pacote do R chamado [Friends](https://emilhvitfeldt.github.io/friends/), onde tem todas as transcrições dos episódios da série. Além disso, esse pacote foi baseado em um estudo chamado [Character Mining](https://github.com/emorynlp/character-mining), cujo objetivo é inferir contextos explícitos e implícitos sobre personagens individuais através de suas conversas.
