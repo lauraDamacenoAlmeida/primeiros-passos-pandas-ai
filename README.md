@@ -12,3 +12,32 @@ Nesse código vamos:
 👉 Fazer a instalação de forma fácil e rápida
 
 👉 Analisar um conjunto de dados inspirado em Friends (quem será o personagem mais citado? 🧐)
+
+# Sobre os dados
+Os dados utilizados foram coletados do [Kaggle](https://www.kaggle.com/datasets/lucasyukioimafuko/friends-r-package-dataset) e foi baseado no pacote do R chamado [Friends](https://emilhvitfeldt.github.io/friends/), onde tem todas as transcrições dos episódios da série. Além disso, esse pacote foi baseado em um estudo chamado [Character Mining](https://github.com/emorynlp/character-mining), cujo objetivo é inferir contextos explícitos e implícitos sobre personagens individuais através de suas conversas.
+
+# Requisitos
+1. [Python 3.6 ou maior](https://www.python.org/downloads/)
+
+2. [Pandas](https://pandas.pydata.org/docs/): Para explorar e fazer a leitura dos dados
+
+3. [Matplotlib](https://matplotlib.org/): Para a visulização dos dados
+
+4. [Scikit-Learn](https://scikit-learn.org/stable/): Para a criação do modelo
+
+
+Para instalar as bibliotecas você pode digitar no terminal:
+```
+pip install nome_pacote
+```
+Por exemplo:
+
+```
+pip install pandas
+```
+
+# Estrutura do projeto
+Atualmente o projeto está dividido assim:
+- primeiros passos.ipynb: contém o código construído.
+- data/: pasta que contém todos os dados baixados do Kaggle
+  
